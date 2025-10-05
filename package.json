@@ -1,14 +1,14 @@
 {
   "name": "demo-landing",
   "version": "0.0.0",
-  "homepage": "https://corian2108.github.io/DemoLanding/",
+  "homepage": "https://corian2108.github.io/DemoLanding/DemoRioEdu/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration=production --base-href=/DemoLanding/",
+    "build": "ng build --configuration=production --base-href=/DemoLanding/DemoRioEdu",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng deploy --base-href=/DemoLanding/"
+    "deploy": "ng deploy --base-href=/DemoLanding/DemoRioEdu"
   },
   "private": true,
   "dependencies": {
