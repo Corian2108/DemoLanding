@@ -1,0 +1,9 @@
+.navbar-brand{
+    padding: 0;
+}
+.logo-header{
+    height: 4rem;
+}
+#mainNav .navbar-brand img{
+    height: 5rem;
+}

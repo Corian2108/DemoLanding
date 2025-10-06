@@ -5,10 +5,10 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration=production --base-href=/DemoLanding/RioEdu",
+    "build": "ng build --configuration=production --base-href=/DemoLanding/RioEdu/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng deploy --base-href=/DemoLanding/RioEdu"
+    "deploy": "ng deploy --base-href=/DemoLanding/RioEdu/"
   },
   "private": true,
   "dependencies": {
